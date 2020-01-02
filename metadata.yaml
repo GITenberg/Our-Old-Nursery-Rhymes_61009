@@ -1,0 +1,48 @@
+_repo: Our-Old-Nursery-Rhymes_61009
+_version: 0.0.1
+contributor:
+  arranger:
+    agent_name: Moffat, Alfred
+    aliases:
+    - Moffat, Alfred Edward
+    - Moffat, A. (Alfred)
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '49823'
+    url: http://www.gutenberg.org/2009/agents/49823
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Edward_Moffat
+  illustrator:
+    agent_name: Willebeek le Mair, H. (Henriëtte)
+    aliases:
+    - Mair, H. Willebeek le (Henriëtte Willebeek)
+    - Willebeek le Mair, H. (Henriette)
+    - LeMair, Henriette Willebeek
+    - Willebeek leMair, H. (Henriette)
+    - Willebeek le Mair, Henriëtte
+    - Le Mair, H. Willebeek (Henriëtte Willebeek)
+    birthdate: 1889
+    deathdate: 1966
+    gutenberg_agent_id: '48186'
+    url: http://www.gutenberg.org/2009/agents/48186
+    wikipedia: https://en.wikipedia.org/wiki/Henriette_Willebeek_le_Mair
+description: ''
+gutenberg_issued: '2019-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61009'
+  lccn: '88753354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs with piano'
+- !lcsh 'Children''s songs'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes, English'
+- !lcc 'M'
+- GITenberg
+title: Our Old Nursery Rhymes
+url: http://www.gutenberg.org/ebooks/61009
